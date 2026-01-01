@@ -1,0 +1,22 @@
+---
+title: Heiva on Tahiti
+type: namani_blog_post
+layout: post
+frontpage: true
+position_lat: -17.583333333300
+position_lon: -149.600000000000
+image: assets/posts/img_8997_01_v1_scale.jpg
+---
+In the past week we were able to see two parts of the annual Heiva festival here on Tahiti. It started as a revival and showcase of traditional Polynesian arts more than a hundred years ago and seems to be going strong, with major performances and big prizes for the taking. One thing we really liked about it is the audiences are mostly local people rather than tourists. Not T-shirts on sale, no hawkers, just a lot of color, culture, and fun.
+
+The central part of the Heiva festival are the evening dance and song performances which are spread over eight evenings, each with two dance groups and two singing groups that are judged in several different categories. We were absolutely wowed by the dance performances on the evening we attended. Each troop has around 100 dancers wearing spectacular costumes full of flowers and leaves which they change several times within one performance. I was wondering about the logistics of getting all the costumes ready since they can't be made too far ahead of time! Lots of incredibly quick hula-style hip swinging (I think the Polynesians have different muscles than we do, or at least different than mine ...) and intricate arm movements.
+
+We also went to see traditional sports competitions. There were no buses running on Bastille Day Saturday so we hitchhiked to the location (Nicky is a great magnet for kind couples who invariably pick us up and deliver us right to where we want to go!), arriving just in time for the team javelin competition. The goal is to hit a coconut (the Tahitian equivalent of a bulls-eye!) which is up on a nine-meter-high pole from a distance of about 20 meters. Once the officials start the 7 minute event, javelins continuously fly through the air as one man from each team throws at roughly the same time as all his competitors. Then their teammates step up and take their throws whenever they get some elbow room among the others. After seven minutes, the team with the most coconut hits wins (or at elast wins that "heat," since they repeated it several times). It was fun seeing the competitors dressed in their pareus (colorful sarong-like wraparounds) and leafy headwear, with swirling tattoos on shoulders, legs, backs - even on faces.
+
+Another event was stone lifting, in which competitors of several different weight classes (and one women's class) lift a roughly rectangular stone of 80-150kg from the ground to one shoulder. The goal is not only to lift the heavy stone, but to be the fastest to get the stone from the ground to one shoulder and keep it there steady with one hand. A judge calls out once the competitor is steady, which took most of the athletes between two and four seconds.The nice thing was that there was a good crowd at the sports day, but not so many that we couldn't get close to all these events.
+
+The most exciting event of the day was team coconut husking (as opposed to the individual event). Each three-person team has to husk 180 coconuts in as little time as possible! One guy splits the coconuts open with an ax while two seated teammates use curved knives to husk the coconut flesh (copra) out of the inner shell. It's a wild scene with the crowd cheering, coconut milk splashing, empty husks flying to the side. The competitors worked up quite a sweat, and the judges were fairly nitpicky that every scrap of copra was collected into burlap bags so that each area was tidy enough for a team to be declared finished. It was a great way to wrap up an exciting day! Other traditional events we didn't get a chance to see are coconut tree climbing and fruit races (in which a certain weight of tropical fruit gets shuttled back and forth over a race course). We'll have to use our imagination for those. I can already imagine how all this might be adapted at the next sports day we hold back at school!!! Watch out, students!
+
+We really enjoyed seeing all these events and especially like that the festival is really oriented to a local crowd. Of course, there are sailors and tourists there, too, but we are in the minority among mostly Tahitian audiences. No souvenirs on sale, no hawkers, just locals out for friendly competition and fun. The way it should be!
+
+Pictures from the events can be found under <a href="https://picasaweb.google.com/107642355341658270464/09FHeivaTimeOnTahiti?authuser=0&feat=directlink">this link</a>.

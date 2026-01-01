@@ -1,0 +1,20 @@
+---
+title: A birthday blow-out and more boat projects
+type: namani_blog_post
+author: Spending the South Pacific cyclone season in New Zealand
+layout: post
+frontpage: true
+location: Moored off Opua
+position_lat: -35.216666666700
+position_lon: 174.266666666700
+image: assets/posts/0ec33207e566d531d39926e0bc690f13_scale.jpg
+---
+Namani got back into the water on 08APR after 4 days on the hard. Nicky was still attending the local Opua school for that week, so we stayed on a mooring for a few more days. This turned out to be a good thing as we re-discovered a pesky little leak somewhere on the port side of our deck (we had washed off the deck with copious amounts of seawater after the launch and then noticed some water on our port side shelves). This leak (or rather a combination of different tiny leaks) had been troubling us ever since we had left Maine in 2011, but we thought we had it under control after re-bedding a port-light back in Hampton, VA. Some investigation now revealed another/new contributor to the water ingress: some no longer sealed screws that attach the genoa tracks to the sides of Namani's deck. We spent the rest of the week re-bedding both genoa tracks. Getting the 29 screws out on each side required some excavation and re-fiberglassing, but now we have two perfectly sealed tracks again.
+
+So - as soon as Nicky had completed his stint at the local school - off we went on 13APR, to spend papi's birthday at a nice anchorage in the Bay of Islands. The forecast showed a strong depression approaching NZ from the NW on 16APR (papi's birthday) and so we dropped the hook in Manawaora Bay which has good all around shelter and excellent holding. We were joined there by Astarte, Victory, Super Ted, Radiance, and later also Victoria.
+
+The birthday then turned into a real blow-out with average winds somewhere between 45 and 50kn and enough rain to make up for the very dry summer NZ has had this season. The anchor held and the fetch was too small to allow any major discomfort, so we enjoyed a couple of days of being couped up on the boat (and some birthday brownies, Nicky interjects as I'm writing this).
+
+As it turned out though, the genoa tracks hadn't been the only new contributors to our leak: Some of the torrential downpour had found its way onto our port side shelves again...  A bit more investigating gave away the rub-rail on the port side as another culprit. The seal around some of the screws attaching it to the hull had broken, providing a conduit for the rainwater... So - after a pit stop in Pahia for some dentist and doctor visits (better get those done before leaving here...) we dropped anchor in Robertson Bay on 19APR and yanked out the toolbox once more.  We opted to cut out a 3  meter section of the aluminum rail and were surprised to find quite a bit of "gunk" behind it. When it was mounted after repainting Namani's topsides in 2011, it seems to have been sealed quite well on its bottom side but not so well on its top side. Hence, once the seal deteriorated, water could get in on top but not drain on the bottom and thus eventually found its was through the screw holes. So after removing the rail section and cleaning everything, we gave it a day to dry out, then drilled out the old holes, refilled them with epoxy and painted the whole lot. All the while we were anchored in one of the most scenic bays in the Bay of Islands, and we had a daily procession of tour boats motoring right past us, announcing the beauties of the Bay to its passengers while we were hanging over the side, attacking old sealant, drilling out holes, and injecting epoxy. Must have been an entertaining sight for the tourists aboard those tour boats...
+
+We got everything closed again (but with the rail not re-attached yet) just in time to head back to a mooring in Opua. We will leave Namani here while we take a rental car down to Auckland on 24APR, for an overnight farewell visit to our friends from Sea Bright. More on that in a later post...

@@ -1,0 +1,27 @@
+---
+title: Von Milos nach Malta - Leben auf der schiefen Ebene...
+type: namani_blog_post
+author: Markus
+layout: post
+frontpage: true
+location: Kalkara Creek, Malta
+position_lat: 37.143333333300
+position_lon: 24.515000000000
+image: assets/posts/approach_valletta2_scale.jpg
+---
+Nachdem wir bereits letzten Donnerstag (23.08.) im Grand Harbour von Malta angekommen sind wird's nun endlich Zeit fÃ¼r ein deutsches Update an alle, die es interessiert.  Wir sind am 17. August gegen Mittag von Milos aufgebrochen, nachdem wir ein paar sehr schÃ¶ne Tage in den Zykladen verbracht hatten (Kithnos, Serifos, Sifnos, Kimolos und Milos).  Die Welt war auch dort klein:  In Milos hatten wir 100m entfernt von Avensa geankert, deren Crew, Anka und Gerald, 25 Jahre lang am Kasseler Staatstheater gearbeitet hatten (meine Heimatstadt).
+
+Wir hatten gehofft, unter gÃ¼nstigen Bedingungen in ca. 5 Tagen in Malta anzukommen, aber der Wind wollte die ersten Tage nicht ganz mitspielen und so sind es dann doch 6 Tage geworden.  Bis zur Strasse von Kithera konnten wir die ersten 24 Stunden eng am Wind noch guten Kurs machen und sind lediglich von der noch etwas rauhen See durchgeschÃ¼ttelt worden.  Nachdem wir dann Kithera passiert hatten und wieder im Ionischen Meer waren, gab's den Wind direkt auf die Nase, so dass die nÃ¤chsten zwei Tage mÃ¼hsames Gegenankreuzen anstand - Leben auf der schiefen Ebene bei immer noch recht bewegter See, mit 2 Reffs im Main und halbeingerollter Genoa...  Am zweiten Tag haben wir dann schliesslich von Genoa auf unser Staysail gewechselt.  Das hat der Geschwindigkeit nicht merklich geschadet, aber das Boot ein gutes StÃ¼ck ruhiger gemacht, so dass die "Off-watch" jetzt auch vernÃ¼nftig schlafen konnte.  Damit war der Fortschritt Richtung Malta zwar immer noch langsam, aber dafÃ¼r bequem.  Nicky hat das Ganze nur wenig beeindruckt - er kann wahrscheinlich auch ungestÃ¶rt mit seinem Lego spielen, wenn das Boot auf dem Kopf steht.  In der insgesamt dritten Nacht hat dann schliesslich der Wind gedreht und wir konnten endlich "geradeaus" Richtung Malta segeln.  So ist es dann im Wesentlichen auch geblieben - lediglich als der Wind von "Close Reach" auf "Beam Reach" schwenkte wurden wir nochmal fÃ¼r 1 1/2 Tage etwas hin- und hergerollt.  Am Ende hatten wir mit unserer etwas langsamer als geplanten Ã½berfahrt sogar noch GlÃ¼ck gehabt, da wir dadurch einen Gale in der NÃ¤he von Malta verpasst haben, der sich am Abend vor unserer Ankunft zwischen einem Tief Ã¼ber Lybien und einem Hoch Ã¼ber SÃ¼ditalien ausgeblasen hatte, so dass wir am nÃ¤chsten Morgen lediglich noch die DÃ¼nung mitbekamen.
+
+Am 23. August gegen 3 Uhr morgens haben wir dann endlich den Lichtschein von Malta am Horizont gesehen.  Die Einfahrt in den Grand Harbour von Valetta sechs Stunden spÃ¤ter war unverÃ¤ndert beeindruckend zwischen den gigantischen Festungsanlagen.  Nachdem wir beim Zoll einklariert hatten, haben wir uns zunÃ¤chst 4 NÃ¤chte in der Grand Harbour Marina vor Vittoriosa gegÃ¶nnt, wo auch Nana's Mutter zu uns gestossen ist.  Von dort aus haben wir die Feierlichkeiten zum Fest von ?Santu Duminku" verfolgt - ein scheinbar ausgesprochen frÃ¶hlicher Heiliger, der Feuerwerk und Kanonendonner Ã¼ber alles liebt.
+
+Inzwischen haben wir um die Ecke im Kalkara Creek vor einer kleinen Bootswerft festgemacht, wo wir Ã¼ber die nÃ¤chsten Tage unsere To-do Liste fÃ¼r Namani weiter verkÃ¼rzen wollen.  Die Werft ist ein ausgesprochen sympatischer Familenbetrieb mit vier BrÃ¼dern und einer Schwester.  Langsam lernen wir auch, die BrÃ¼der auseinanderzuhalten, was die Kommunikation etwas vereinfacht...
+
+Nach aktueller Planung werden wir noch bis ca. Mitte nÃ¤chster Woche in Malta sein, um Trittstufen am Mast und eine Schiene fÃ¼r einen Sturmsegel montieren zu lassen (wider Erwarten muss dafÃ¼r doch der Mast demontiert werden).  Je nach Wetter und Wind geht's danach voraussichtlich zunÃ¤chst weiter nach Tunis und dann mit kurzem Zwischenstopp auf Sardinien nach Menorca.
+
+Die Ã½berfahrt von Milos nach Malte war mit knapp 640 Seemeilen unsere bisher lÃ¤ngste, mit einigen sehr nÃ¼tzlichen Lektionen.  Allen voran sicher, dass sich Namani wieder als ausgesprochen seetÃ¼chtig erwiesen hat.  Auch, wie wichtig es bei nur zwei ?WachgÃ¤ngern" ist, wÃ¤hrend der Ruhepausen tatsÃ¤chlich schlafen zu kÃ¶nnen - im Zweifelsfall also Geschwindigkeit reduzieren, um damit dass Boot etwas ruhiger zu bekommen.  Schliesslich haben wir auch gemerkt, dass wir ausser dem Motor andere Optionen brauchen, um unsere Batterien auf Spannung zu halten. Bei starker KrÃ¤ngung ist die DieselkÃ¼hlung grenzwertig, da sich im Salzwasserfilter eine Luftblase bildet.  Ausserdem soll lÃ¤ngerer Leerlauf ohne Last schlecht fÃ¼r den Diesel sein (?).  Jedenfalls haben wir jetzt unseren kombinierten Wind- und Schleppgenerator re-aktiviert, um ihn auf der nÃ¤chsten Ã½berfahrt zu testen.
+
+Last but not least hatten wir zwischenzeitlich interessanten Funkverkehr.  Nana hat dabei sogar mit einem amerikanischen FlugzeugtrÃ¤ger gesprochen.  Der hatte zuvor eine Sicherheitsmeldung ausgesendet, da er wegen Nachtflugbetrieb Regel-unkonform beleuchtet war und wir mussten ihn bitten, seine Position nochmal zu wiederholen.  Ã½berzeugend war auch die Sicherheitsmeldung eines anderen US-Navy Schiffes:  "I will be conducting live ammunition gunnery exercises - please stay well clear".  Zum GlÃ¼ck waren wir recht weit von deren Position entfernt...
+
+NÃ¤chster Update irgendwo aus dem westlichen Mittelmeer (Tunis?) - stay tuned...
+

@@ -1,0 +1,10 @@
+---
+title: Anchor Excitement
+type: namani_blog_post
+layout: post
+frontpage: true
+location: Anchored off Cristobal, Galapagos
+position_lat: -0.896333333300
+position_lon: -89.612000000000
+---
+Our fifth day in the Galapagos - an interesting one as it turned out... The bottom here here is a mix of sand, some small gravel and patches  of bigger rocks in about 6 meters of depth at low tide, 8 meters at high tide. Our anchor is well set in a sandy patch (which we found on  Saturday after a few attempts that ended on rock). However, with 40m of chain out and boats turning in all directions with wind and tides it  seems almost inevitable that part of the chain ends up on top of some rocks. It appears that between yesterday morning and today Namani  has swung around and wrapped our chain around some bigger rock which then tipped over and solidly jammed the chain. We had been trying unsuccessfully to free the chain with snorkel and fins for some time when our very helpful neighbors joined. Ultimately it took Manfred and Thoralf with full scuba gear and a big bolt cutter as a crow bar to move the rock of our chain. We had previously tried to  disconnect the chain from the boat and slide it out under the rock (with Namani temporarily hanging off the stern of our French neighbors,  Alain and Veronique's boat) but to no avail - so it took two divers and bolt cutters to do the job. We've now tied three fenders spaced at  7.5m intervals along the chain to float it above the rocks. All in all a 4 1/2 hour operation - many thanks to all who helped! Other news from Namani: Bill left on Monday morning to meet Bonnie and their tour in St. Cruz. Thanks Bill for joining us again! Nana went  with Bill to St. Cruz to scope out options for last minute tours from there. We got lucky and Nana and Nicky are now booked on a 4-day  tour of the central islands from next Monday to Thursday. Papi will then do another day tour with Nicky (we're doing this in sequence in  order not to leave the boat unattended for too long). Tomorrow we'll do a hike on St. Cristobal which we had originally planned for this afternoon - but the anchor intervened... ;-)
